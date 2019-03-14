@@ -3,7 +3,7 @@ Note: the android studio version : 3.0.1
       android SDK version : 26.1.0
 The Android studio learning demo and project repository
 
-# Android demo 文件介绍：
+# Android demo 文件介绍： 
 
  1、 CarrouselDemo 轮播效果演示
 
